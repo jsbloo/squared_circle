@@ -48,7 +48,6 @@ def squaredCircle(r,i,depth = 0):
         drawTriangle(-p/2,r*3.444+(depth/10),p)
     drawCircle(-p/2,r*2.5*1.6444,r*2.5)
     
-
     i=i-1
     if(i<=0):
         return
